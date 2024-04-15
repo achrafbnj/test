@@ -4,7 +4,7 @@ const axios = require('axios');
 const fs = require('fs');
 
 // Telegram bot token
-const token = '6723919110:AAF1GB2qAT4pfdJjLoXZV-HDrcdBsazE2NU';
+const token = '7036767439:AAGoygrMpQr1xcV7VjkuASsT0PDM7dhKqAU';
 
 // Initialize the bot
 const bot = new TelegramBot(token, { polling: true });
